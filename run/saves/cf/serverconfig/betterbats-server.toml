@@ -1,0 +1,9 @@
+
+[Settings]
+	#How many bat you have to eat before receiving the wither effect
+	#Range: 0 ~ 746
+	max_bat_count = 3
+	#The amount of time it takes (in seconds) for your bat count to reset
+	#Range: 0 ~ 86400
+	bat_count_timer = 10
+

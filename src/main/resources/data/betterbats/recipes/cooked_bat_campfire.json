@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "cookingtime": 600,
+  "experience": 0.35,
+  "ingredient": {
+    "item": "betterbats:raw_bat"
+  },
+  "result": "betterbats:cooked_bat"
+}
